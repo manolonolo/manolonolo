@@ -1,5 +1,12 @@
 ### About Me
 
+ I'm Pablo Manolaki, a web developer with a pasion for web design that strives to offer the best possible user experience. My objective is the development of web platforms as a means of communication, as well as the implementation of a practical user interface that guarantees a delightful user experience.
+
+ My interest for the IT world is born from my own personal experience as an every day user. Every hour, thousands of people interact with different user interfaces on the Internet, and as a recurring user of this platforms, I quickly discovered the impact that web design has in me. When web design is intuitive and organized, it inspires me to be organized myself. This took me to indulge deeper into the basics of programming, with the objective of developing my own projects, which is a path I keep on enjoying to this day.
+ 
+  I started this learning roadtrip as a selftaught novice, where I found JavaScript to be my starting point. Then I found the Henry Bootcamp, where I further expanded my knowledge on Front-End with **React** and **Redux**, and Back-End with **Express** and **Node.js**. On Henry I participated on a series of individual and group projects, as well as pair programming sessions, where I applyed this stack. 
+
+ I'm on an active search of a job that allows me to keep on growing as a developer and reach my goals.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pablo-manolaki-110522158/">
@@ -50,7 +57,7 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/manolonolo">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/manolonolo?cardType=github&theme=github" alt="manolonolo's GitHub Stats" /> -->
+            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/manolonolo?cardType=github&theme=github" alt="manolonolo's GitHub Stats" />
             <img src="https://github-readme-stats.vercel.app/api?username=manolonolo&show_icons=true&hide=stars&hide_border=true" alt="manolonolo's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
@@ -64,6 +71,12 @@
 
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=jeffreyc86&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=manolonolo&label=Profile+Views)
 
 </div>
+
+  ### Currently Learning 🧠
+  <div>
+  - MongoDB
+  - React Native
+  </div>
